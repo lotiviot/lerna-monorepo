@@ -8,6 +8,6 @@
     "lerna": "^6.6.1"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@lotiviot"
+    "registry":"https://registry.npmjs.org//@lotiviot"
 }
 }
