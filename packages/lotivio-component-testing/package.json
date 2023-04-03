@@ -1,5 +1,5 @@
 {
-  "name": "pfj-component-dev",
+  "name": "lotivio-component-testing",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -23,5 +23,13 @@
     "typescript": "^4.9.3",
     "vite": "^4.0.0"
   },
-  "gitHead": "7b0777ce742294df77dae33a5703404272a734ea"
+  "gitHead": "562bd5f2a223171168fbf93f5887cbe7b1b9c11a",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/lotiviot/lotivio-component-testing.git",
+    "directory": "packages/lotivio-component-testing"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
