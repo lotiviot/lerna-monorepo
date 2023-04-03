@@ -1,5 +1,5 @@
 55 error Error: Command failed with exit code 1: pnpm install --lockfile-only --ignore-scripts
-55 error  ERROR  Failed to replace env in config: ${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}
+55 error  ERROR  Failed to replace env in config: ${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}
 55 error For help, run: pnpm help install
 55 error     at makeError (C:\Users\tclot\Documents\github\lerna-monorepo\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
 55 error     at handlePromise (C:\Users\tclot\Documents\github\lerna-monorepo\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:114:26)
