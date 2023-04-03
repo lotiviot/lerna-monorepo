@@ -4,6 +4,9 @@
   "version": "independent",
   "npmClient": "pnpm",
   "command": {
+    "version":{
+      "allowBranch": "main"
+    },
     "publish": {
       "conventionalCommits": true,
       "message": "chore(release): publish",
