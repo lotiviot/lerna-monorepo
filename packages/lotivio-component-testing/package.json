@@ -1,6 +1,6 @@
 {
   "name": "lotivio-component-testing",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
     "directory": "packages/lotivio-component-testing"
   },
   "publishConfig": {
-    "registry":"https://registry.npmjs.org/@lotiviot"
+    "registry": "https://registry.npmjs.org/@lotiviot"
   }
 }
