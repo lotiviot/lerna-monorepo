@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.11](https://github.com/lotiviot/lerna-monorepo/compare/lotivio-component-testing@1.0.10...lotivio-component-testing@1.0.11) (2023-04-04)
+
+**Note:** Version bump only for package lotivio-component-testing
+
+
+
+
+
 ## [1.0.10](https://github.com/lotiviot/lerna-monorepo/compare/lotivio-component-testing@1.0.9...lotivio-component-testing@1.0.10) (2023-04-04)
 
 **Note:** Version bump only for package lotivio-component-testing
