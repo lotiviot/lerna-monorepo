@@ -23,8 +23,5 @@
     "typescript": "^4.9.3",
     "vite": "^4.0.0"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/@loottee"
-  },
-  "gitHead": "bb57369626bc83e2641178fad08067f6bb0e7aa4"
+  "gitHead": "fe282c96251d7f6013cf3bdfe85ec3b4383c80cb"
 }
