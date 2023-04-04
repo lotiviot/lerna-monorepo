@@ -44,7 +44,7 @@ importers:
       eslint: ^8.28.0
       eslint-config-prettier: ^8.5.0
       eslint-plugin-svelte3: ^4.0.0
-      lotivio-component-testing: ^1.0.8
+      lotivio-component-testing: ^1.0.9
       prettier: ^2.8.0
       prettier-plugin-svelte: ^2.8.1
       svelte: ^3.54.0
