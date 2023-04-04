@@ -1,6 +1,6 @@
 {
 	"name": "project1",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"lotivio-component-testing": "^1.0.6"
+		"lotivio-component-testing": "^1.0.7"
 	}
 }
