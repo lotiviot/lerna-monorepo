@@ -23,12 +23,6 @@
     "typescript": "^4.9.3",
     "vite": "^4.0.0"
   },
-  "gitHead": "e9bc56807049d9341f57c6c480bf8cb98578ad46",
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com/lotiviot/lotivio-component-testing.git",
-    "directory": "packages/lotivio-component-testing"
-  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/@loottee"
   }
